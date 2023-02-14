@@ -2,3 +2,7 @@ ClasesEquivalencia/.classpath
 ClasesEquivalencia/.project
 ClasesEquivalencia/target/
 ClasesEquivalencia/.settings
+
+*.classpath
+*.idea
+*.settings
