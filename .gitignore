@@ -1,8 +1,5 @@
-ClasesEquivalencia/.classpath
-ClasesEquivalencia/.project
-ClasesEquivalencia/target/
-ClasesEquivalencia/.settings
 
+ClasesEquivalencia/target
 *.classpath
 *.idea
 *.settings
